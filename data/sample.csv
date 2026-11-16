@@ -1,0 +1,5 @@
+id,name,email,amount
+1,Asha,asha@example.com,250
+2,Ben,ben@example.com,100
+3,Cara,,75
+4,Dev,dev@example.com,abc
